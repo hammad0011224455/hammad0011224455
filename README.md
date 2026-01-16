@@ -12,7 +12,7 @@ I specialize in Shopify store development, theme customization, and automation s
 - Python automation for Shopify workflows
 
 ### 🚀 Featured Project
-**Amsons Bulk Upload Tool**
+**Shopify Bulk Upload Tool**
 - Python-based Shopify bulk upload automation tool
 - Converts supplier Excel files into Shopify-ready CSV
 - Detects SKU duplicates and import errors
