@@ -1,26 +1,61 @@
 # 👋 Hi, I'm Syed Hammad Ul Hasan
 
-## 🛍 Shopify Developer & Theme Customization Expert
+## 🛍 Frontend Developer | Shopify, React & Next.js
 
-I specialize in Shopify store development, theme customization, and automation solutions. I help businesses build visually appealing, high-performing Shopify stores and manage large product catalogs efficiently.
+I am a frontend-focused developer with strong experience in Shopify store development,
+theme customization, and automation solutions. I work on building scalable,
+high-performing eCommerce platforms and managing large product catalogues efficiently.
 
-### 🔧 Services I Offer
-- Shopify theme customization (Liquid, HTML, CSS)
-- Shopify store setup and configuration
-- Bulk product upload & CSV automation
-- Large catalog management (6,000+ products)
-- Python automation for Shopify workflows
+Alongside Shopify, I have commercial experience working with **React and Next.js**
+to build modern, component-based user interfaces and frontend applications.
 
-### 🚀 Featured Project
-**Shopify Bulk Upload Tool**
-- Python-based Shopify bulk upload automation tool
-- Converts supplier Excel files into Shopify-ready CSV
-- Detects SKU duplicates and import errors
+---
 
-### 🧰 Tech Stack
+## 🔧 What I Do
+
+- Shopify store development from scratch
+- Shopify theme customization using Liquid, HTML, and CSS
+- Large product catalogue management (7,000+ SKUs)
+- Bulk product upload and CSV automation
+- Python scripting for Shopify workflows and automation
+- Frontend development using React and Next.js
+
+---
+
+## 🚀 Featured Project
+
+### Shopify Bulk Upload Automation Tool
+- Python-based automation tool for Shopify product uploads
+- Converts supplier Excel files into Shopify-compatible CSV format
+- Handles large product datasets efficiently
+- Detects SKU duplicates and validates product data
+- Reduces manual upload time and minimises import errors
+
+---
+
+## 💻 Frontend Experience (React & Next.js)
+
+- Developed frontend applications using **React** with reusable components
+- Built pages and layouts using **Next.js**, including routing and page structure
+- Integrated REST APIs to display dynamic data
+- Applied responsive design and performance-focused UI practices
+- Worked in Agile environments alongside designers and backend developers
+
+---
+
+## 🧰 Tech Stack
+
+**Frontend**
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js
+- Next.js
+
+**eCommerce**
 - Shopify (Liquid, Themes, Admin)
-- HTML, CSS
-- Python
-- CSV / Excel Automation
 
-📫 Open to freelance and contract opportunities
+**Automation & Tools**
+- Python (scripting and automation)
+- CSV and Excel data processing
+- Git and GitHub
+
+---
