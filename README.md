@@ -1,61 +1,111 @@
 # 👋 Hi, I'm Syed Hammad Ul Hasan
 
-## 🛍 Frontend Developer | Shopify, React & Next.js
+## 🚀 Full-Stack eCommerce Developer | Shopify • React • Python
 
-I am a frontend-focused developer with strong experience in Shopify store development,
-theme customization, and automation solutions. I work on building scalable,
-high-performing eCommerce platforms and managing large product catalogues efficiently.
+I am a full-stack eCommerce developer with strong experience in building scalable Shopify stores, automation tools, and modern frontend applications.
 
-Alongside Shopify, I have commercial experience working with **React and Next.js**
-to build modern, component-based user interfaces and frontend applications.
+I specialise in developing high-performing eCommerce platforms, handling large product catalogues, and creating internal tools that improve operational efficiency.
+
+Alongside Shopify, I have hands-on experience with **React and Next.js** to build modern, responsive, and component-based user interfaces.
 
 ---
 
 ## 🔧 What I Do
 
-- Shopify store development from scratch
-- Shopify theme customization using Liquid, HTML, and CSS
-- Large product catalogue management (7,000+ SKUs)
-- Bulk product upload and CSV automation
-- Python scripting for Shopify workflows and automation
-- Frontend development using React and Next.js
+- 🛍 Build Shopify stores from scratch (design → development → deployment)
+- 🎨 Customise Shopify themes using Liquid, HTML, CSS, and JavaScript
+- ⚙️ Develop automation tools for product management and workflows
+- 📦 Manage large product catalogues (7,000+ SKUs)
+- 🔌 Integrate REST APIs and third-party services
+- 💻 Build frontend applications using React & Next.js
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### Shopify Bulk Upload Automation Tool
-- Python-based automation tool for Shopify product uploads
-- Converts supplier Excel files into Shopify-compatible CSV format
-- Handles large product datasets efficiently
-- Detects SKU duplicates and validates product data
-- Reduces manual upload time and minimises import errors
+### 🟡 Amsons eCommerce Website  
+- Developed and customised a live Shopify store  
+- Built premium UI/UX with advanced product pages and collections  
+- Implemented size charts, variant systems, and navigation improvements  
+- 🌐 Live: https://www.amsons.co.uk  
+
+---
+
+### 🟡 Shopify Bulk Upload Automation Tool  
+- Python-based desktop application for Shopify product imports  
+- Converts Excel files into Shopify-ready CSV format  
+- Auto-generates SKUs and validates product data  
+- Detects duplicate titles and broken image links  
+- Generates reports (validation, image checks, matching)  
+- Reduced manual upload time significantly  
+
+---
+
+### 🟡 eCommerce Chatbot (NLP)  
+- Built an intelligent chatbot for customer queries and product recommendations  
+- Implemented Natural Language Processing (NLP) for intent detection  
+- Designed flows for order support, FAQs, and product discovery  
+
+---
+
+### 🟡 Headless Shopify Store (Hydrogen)  
+- Built a modern headless storefront using React and Shopify Hydrogen  
+- Focused on performance, scalability, and mobile-first UI  
 
 ---
 
 ## 💻 Frontend Experience (React & Next.js)
 
-- Developed frontend applications using **React** with reusable components
-- Built pages and layouts using **Next.js**, including routing and page structure
-- Integrated REST APIs to display dynamic data
-- Applied responsive design and performance-focused UI practices
-- Worked in Agile environments alongside designers and backend developers
+- Built reusable UI components using **React**
+- Developed pages and routing using **Next.js**
+- Integrated REST APIs for dynamic content
+- Applied responsive design and performance optimisation
+- Worked in Agile environments with cross-functional teams
 
 ---
 
 ## 🧰 Tech Stack
 
-**Frontend**
+### Frontend
 - HTML5, CSS3, JavaScript (ES6+)
 - React.js
 - Next.js
 
-**eCommerce**
-- Shopify (Liquid, Themes, Admin)
+### eCommerce
+- Shopify (Liquid, Themes, Admin API)
+- WooCommerce
+- Magento (familiarity)
 
-**Automation & Tools**
-- Python (scripting and automation)
-- CSV and Excel data processing
-- Git and GitHub
+### Backend & Automation
+- Python (automation tools, data processing)
+- PHP (backend development)
+
+### Integrations & Cloud
+- REST APIs
+- AWS / GCP / Azure (working knowledge)
+
+### Tools
+- Git & GitHub
+- Postman
+- Excel / CSV Processing (Pandas)
 
 ---
+
+## 📈 What Makes Me Different
+
+- Built real-world eCommerce systems (not just demo projects)
+- Strong focus on automation and efficiency
+- Experience working with live business operations
+- Ability to combine frontend, backend, and data workflows
+
+---
+
+## 📫 Contact Me
+
+📧 Email: hadishah786000@gmail.com  
+📍 Location: United Kingdom  
+📱 Phone: 07494 614166  
+
+---
+
+⭐ Always open to opportunities in Shopify, eCommerce, and Full-Stack Development
